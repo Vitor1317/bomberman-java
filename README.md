@@ -24,6 +24,6 @@ Através de um mapa exibido por uma interface gráfica, o jogador fará seus m
 
 ------
 
-Autor: [Bruno Papa](https://github.com/brnpapa)
+Inspirado emr: [Bruno Papa](https://github.com/brnpapa)
 
 Sprites ripped by Zanaku, Game tilesets ripped by Plasma Captain.
